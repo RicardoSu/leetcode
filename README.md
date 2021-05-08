@@ -21,3 +21,11 @@ Also, there are open source implementations for basic data structs and algorithm
 3. [soulmachine's leetcode](https://github.com/soulmachine/leetcode)
 4. [kamyu104's LeetCode](https://github.com/kamyu104/LeetCode)
 5. [gouthampradhan's leetcode](https://github.com/gouthampradhan/leetcode)
+
+---
+
+ <div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Suarez-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-suarez-lima/)](https://www.linkedin.com/in/ricardo-suarez-lima/)
+
+   </div>
